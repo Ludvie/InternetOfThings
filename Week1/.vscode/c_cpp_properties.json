@@ -8,10 +8,10 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "C:/IOT/Week1-ESP32-Wokwi-Siap-Build/src",
-                "C:/IOT/Week1-ESP32-Wokwi-Siap-Build/.pio/libdeps/esp32doit-devkit-v1/ArduinoJson/src",
-                "C:/IOT/Week1-ESP32-Wokwi-Siap-Build/.pio/libdeps/esp32doit-devkit-v1/DHT sensor library",
-                "C:/IOT/Week1-ESP32-Wokwi-Siap-Build/.pio/libdeps/esp32doit-devkit-v1/Adafruit Unified Sensor",
+                "C:/IOT/Week1-ESP32-Wokwi-Siap-Build/Week1/src",
+                "C:/IOT/Week1-ESP32-Wokwi-Siap-Build/Week1/.pio/libdeps/esp32doit-devkit-v1/ArduinoJson/src",
+                "C:/IOT/Week1-ESP32-Wokwi-Siap-Build/Week1/.pio/libdeps/esp32doit-devkit-v1/DHT sensor library",
+                "C:/IOT/Week1-ESP32-Wokwi-Siap-Build/Week1/.pio/libdeps/esp32doit-devkit-v1/Adafruit Unified Sensor",
                 "C:/Users/LENOVO PC/.platformio/packages/framework-arduinoespressif32/cores/esp32",
                 "C:/Users/LENOVO PC/.platformio/packages/framework-arduinoespressif32-esp32-libs/dio_qspi/include",
                 "C:/Users/LENOVO PC/.platformio/packages/framework-arduinoespressif32-esp32-libs/include/newlib/platform_include",
@@ -375,10 +375,10 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "C:/IOT/Week1-ESP32-Wokwi-Siap-Build/src",
-                    "C:/IOT/Week1-ESP32-Wokwi-Siap-Build/.pio/libdeps/esp32doit-devkit-v1/ArduinoJson/src",
-                    "C:/IOT/Week1-ESP32-Wokwi-Siap-Build/.pio/libdeps/esp32doit-devkit-v1/DHT sensor library",
-                    "C:/IOT/Week1-ESP32-Wokwi-Siap-Build/.pio/libdeps/esp32doit-devkit-v1/Adafruit Unified Sensor",
+                    "C:/IOT/Week1-ESP32-Wokwi-Siap-Build/Week1/src",
+                    "C:/IOT/Week1-ESP32-Wokwi-Siap-Build/Week1/.pio/libdeps/esp32doit-devkit-v1/ArduinoJson/src",
+                    "C:/IOT/Week1-ESP32-Wokwi-Siap-Build/Week1/.pio/libdeps/esp32doit-devkit-v1/DHT sensor library",
+                    "C:/IOT/Week1-ESP32-Wokwi-Siap-Build/Week1/.pio/libdeps/esp32doit-devkit-v1/Adafruit Unified Sensor",
                     "C:/Users/LENOVO PC/.platformio/packages/framework-arduinoespressif32/cores/esp32",
                     "C:/Users/LENOVO PC/.platformio/packages/framework-arduinoespressif32-esp32-libs/dio_qspi/include",
                     "C:/Users/LENOVO PC/.platformio/packages/framework-arduinoespressif32-esp32-libs/include/newlib/platform_include",

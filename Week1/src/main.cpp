@@ -2,8 +2,7 @@
 #include <DHT.h>
 #include <ArduinoJson.h>
 
-// Ubah menjadi 0 untuk eksperimen BLOCKING (delay).
-// Ubah menjadi 1 untuk eksperimen NON-BLOCKING (millis).
+
 #define MODE_NON_BLOCKING 0
 
 #define PIN_DHT 4
